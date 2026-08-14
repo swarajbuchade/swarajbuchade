@@ -1,16 +1,16 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fraunces&size=26&pause=1000&color=C9A35A&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Swaraj+Buchade;Sales+%26+Marketing+%7C+MGB+Candidate;Real+Estate+%E2%86%92+Global+Brand+Growth;Singapore+%C2%B7+London+%C2%B7+Dubai" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fraunces&amp;size=26&amp;pause=1000&amp;color=C9A35A&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi%2C+I'm+Swaraj+Buchade;Sales+%26+Marketing+%7C+MGB+Candidate;Real+Estate+%E2%86%92+Global+Brand+Growth;Singapore+%C2%B7+London+%C2%B7+Dubai" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1c2027,50:2c313b,100:c9a35a&height=200&section=header&text=SWARAJ%20BUCHADE&fontSize=46&fontColor=ece7db&fontAlignY=40&desc=Sales%20%26%20Marketing%20%C2%B7%20MGB%20Candidate&descAlignY=62&descSize=16&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1c2027,50:2c313b,100:c9a35a&amp;height=200&amp;section=header&amp;text=SWARAJ%20BUCHADE&amp;fontSize=46&amp;fontColor=ece7db&amp;fontAlignY=40&amp;desc=Sales%20%26%20Marketing%20%C2%B7%20MGB%20Candidate&amp;descAlignY=62&amp;descSize=16&amp;animation=fadeIn" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/swarajbuchade"><img src="https://img.shields.io/badge/LinkedIn-14171c?style=for-the-badge&logo=linkedin&logoColor=C9A35A"/></a>
-  <a href="mailto:Swarajbuchade26@gmail.com"><img src="https://img.shields.io/badge/Email-14171c?style=for-the-badge&logo=gmail&logoColor=C9A35A"/></a>
-  <a href="https://swarajbuchade.netlify.app"><img src="https://img.shields.io/badge/Portfolio-14171c?style=for-the-badge&logo=About.me&logoColor=C9A35A"/></a>
-  <a href="https://github.com/swarajbuchade"><img src="https://img.shields.io/badge/GitHub-14171c?style=for-the-badge&logo=github&logoColor=C9A35A"/></a>
+  <a href="https://linkedin.com/in/swarajbuchade"><img src="https://img.shields.io/badge/LinkedIn-14171c?style=for-the-badge&amp;logo=linkedin&amp;logoColor=C9A35A"/></a>
+  <a href="mailto:Swarajbuchade26@gmail.com"><img src="https://img.shields.io/badge/Email-14171c?style=for-the-badge&amp;logo=gmail&amp;logoColor=C9A35A"/></a>
+  <a href="https://swarajbuchade.netlify.app"><img src="https://img.shields.io/badge/Portfolio-14171c?style=for-the-badge&amp;logo=About.me&amp;logoColor=C9A35A"/></a>
+  <a href="https://github.com/swarajbuchade"><img src="https://img.shields.io/badge/GitHub-14171c?style=for-the-badge&amp;logo=github&amp;logoColor=C9A35A"/></a>
 </p>
 
 <p align="center"><sub><i>↳ full case studies &amp; live portfolio at <a href="https://swarajbuchade.netlify.app">swarajbuchade.netlify.app</a></i></sub></p>
@@ -43,15 +43,15 @@ Results-driven **MGB candidate** specializing in Global Marketing Management, wi
 ### Skills & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Marketing_%26_Branding-14171c?style=flat-square&color=C9A35A"/>
-  <img src="https://img.shields.io/badge/CRM-14171c?style=flat-square&color=C9A35A"/>
-  <img src="https://img.shields.io/badge/Sales_Negotiation-14171c?style=flat-square&color=C9A35A"/>
-  <img src="https://img.shields.io/badge/Market_Research-14171c?style=flat-square&color=C9A35A"/>
-  <img src="https://img.shields.io/badge/Decision_Making-14171c?style=flat-square&color=C9A35A"/>
+  <img src="https://img.shields.io/badge/Marketing_%26_Branding-14171c?style=flat-square&amp;color=C9A35A"/>
+  <img src="https://img.shields.io/badge/CRM-14171c?style=flat-square&amp;color=C9A35A"/>
+  <img src="https://img.shields.io/badge/Sales_Negotiation-14171c?style=flat-square&amp;color=C9A35A"/>
+  <img src="https://img.shields.io/badge/Market_Research-14171c?style=flat-square&amp;color=C9A35A"/>
+  <img src="https://img.shields.io/badge/Decision_Making-14171c?style=flat-square&amp;color=C9A35A"/>
   <br/>
-  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Design_Thinking-14171c?style=flat-square&color=C9A35A"/>
-  <img src="https://img.shields.io/badge/Blue_Ocean_Strategy-14171c?style=flat-square&color=C9A35A"/>
+  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&amp;logo=microsoftexcel&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Design_Thinking-14171c?style=flat-square&amp;color=C9A35A"/>
+  <img src="https://img.shields.io/badge/Blue_Ocean_Strategy-14171c?style=flat-square&amp;color=C9A35A"/>
 </p>
 
 ---
@@ -78,7 +78,7 @@ Studied how transparency, personalization, and data privacy drive trust and purc
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swarajbuchade&label=Profile%20Views&color=C9A35A&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=swarajbuchade&amp;label=Profile%20Views&amp;color=C9A35A&amp;style=flat" />
 </p>
 
 <p align="center"><i>Pune, Maharashtra · MGB Candidate, SP Jain School of Global Management</i></p>
